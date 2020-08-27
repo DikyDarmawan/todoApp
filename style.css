@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0 auto;
+    
+}
+.search{
+    width: 100%;
+    display: flex;
+    float: left;
+    background: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+    padding: 10px 5px;
+}
+.list{
+    display: flex;
+    padding: 1px;
+}
+li{
+    padding: 3px;
+}
+button{
+    color: white;
+    margin-left: 10px;
+    
+}
+li{
+    list-style: none;
+    border: 1px;
+    border-style: solid;
+}
+
